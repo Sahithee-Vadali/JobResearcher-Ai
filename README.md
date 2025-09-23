@@ -77,7 +77,7 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 
 **Sahithee Vadali**-Full Stack Developer
 
- 💼 [LinkedIn](https://www.linkedin.com/in/sahithee-vadali/) | 📚 [GitHub](https://www.linkedin.com/in/sahithee-vadali/)
+ 💼 [LinkedIn](https://www.linkedin.com/in/sahithee-vadali/) | 📚 [GitHub](https://www.github.com/Sahithee-Vadali/)
 
 ---
 
