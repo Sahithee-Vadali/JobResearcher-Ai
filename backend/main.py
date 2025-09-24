@@ -27,7 +27,7 @@ app = FastAPI(
 )
 
 # Configure allowed origins for CORS
-allowed_origins = ["http://localhost:3000", "https://job-researcher.vercel.app"]
+allowed_origins = ["http://localhost:3000", "https://job-researcher-ai-b1zn.vercel.app"]
 
 app.add_middleware(
     CORSMiddleware,
